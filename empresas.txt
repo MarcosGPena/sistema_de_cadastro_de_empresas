@@ -1,0 +1,28 @@
+[{
+      ID : 349361703, 
+      Empresa : doce mel,
+      Razao Social : doces,
+      CNPJ : 12345678000190, 
+      Endereco Empresa :{ Logradouro : r, Numero :23,Complemento : t, Bairro : g,Estado : ,CEP : 12345678}, 
+      Socio :{ Nome : kaio, CPF : 12345678901,Endereco Socio : { Logradouro : y, Numero :34,Complemento : b, Bairro : r,Estado : t,CEP : 12345678} },
+      Data de Cadastro: 2022-09-16 11:02:10.742278,
+}
+, {
+      ID : 842368646, 
+      Empresa : mercadinho lopes,
+      Razao Social : mercado,
+      CNPJ : 12345678000178, 
+      Endereco Empresa :{ Logradouro : r, Numero :21,Complemento : v, Bairro : g,Estado : f,CEP : 87654321}, 
+      Socio :{ Nome : lucas, CPF : 12345678910,Endereco Socio : { Logradouro : g, Numero :56,Complemento : u, Bairro : h,Estado : n,CEP : 12345678} },
+      Data de Cadastro: 2022-09-16 11:04:33.925851,
+}
+, {
+      ID : 690146215, 
+      Empresa : padaria sonho,
+      Razao Social : alimentos saudaveis,
+      CNPJ : 12345678000199, 
+      Endereco Empresa :{ Logradouro : t, Numero :23,Complemento : g, Bairro : b,Estado : j,CEP : 12345876}, 
+      Socio :{ Nome : joao, CPF : 12345678912,Endereco Socio : { Logradouro : g, Numero :45,Complemento : h, Bairro : n,Estado : t,CEP : 98765432} },
+      Data de Cadastro: 2022-09-16 11:06:34.363475,
+}
+]
